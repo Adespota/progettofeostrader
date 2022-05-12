@@ -190,7 +190,14 @@ footer{
 @media (min-width: 768px) { ... }
 
 // Large devices (desktops, 992px and up)
-@media (min-width: 992px) { ... }
+@media (min-width: 992px) { 
+
+    .our_solution_category_test{
+        width: 50px;
+        margin:0;
+    }
+
+ }
 
 // X-Large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
