@@ -187,7 +187,7 @@ footer{
 @media (min-width: 576px) { 
 
     .container{
-        flex:column
+        flex-direction:column
     }
     
     
