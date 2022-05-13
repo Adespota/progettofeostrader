@@ -181,14 +181,15 @@ footer{
       .our_solution_category .solution_cards_box {
         flex: auto;
       }
+      .row{
+        flex-direction:column
+    }
+    
 }
 
 /*Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) { 
 
-    .row{
-        flex-direction:column
-    }
     
     
  }
