@@ -158,6 +158,10 @@ footer{
         flex-direction: row;
         flex-wrap: wrap;
       }
+
+      .container .row {
+          flex: auto;
+      }
         
   
       
