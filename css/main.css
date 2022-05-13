@@ -189,6 +189,10 @@ footer{
 /*Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) { 
     
+    .container{
+        flex:column
+    }
+    
     
  }
 
@@ -198,6 +202,8 @@ footer{
         flex: 1;
       }
  }
+
+   
 
 /*Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) { 
