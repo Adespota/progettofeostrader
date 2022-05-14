@@ -8,8 +8,10 @@ footer{
 }
 
 
-.accent{
-    background-color: blue;
+.section_background{
+    background-color: rgb(51, 137, 218);
+    opacity: 0.6
+    
 }
     
    
