@@ -6,6 +6,11 @@ html, body{
 footer{
     background-color: rgb(184, 203, 232);
 }
+
+
+.bc_accent{
+    background-color: blue;
+}
     
    
 
