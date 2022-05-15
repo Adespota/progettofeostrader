@@ -10,7 +10,7 @@ footer{
 
 .section-background{
     background-color:cornflowerblue;
-    border-radius: 10% 30% 50% 70%;
+    border-bottom-right-radius:100%;
 
     
 }
