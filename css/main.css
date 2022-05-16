@@ -15,6 +15,11 @@ footer{
     
 }
 
+.img-effect{
+  position: relative;
+  z-index: 1;
+}
+
 
 
 
