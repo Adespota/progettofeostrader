@@ -20,6 +20,11 @@ footer{
   z-index: 1;
 }
 
+.effect{
+  position: absolute;
+  z-index: 2;
+}
+
 
 
 
