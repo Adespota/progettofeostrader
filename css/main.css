@@ -16,14 +16,12 @@ footer{
 }
 
 .img-effect{
-  position: relative;
+  position: absolute;
   z-index: 1;
+
 }
 
-.effect{
-  position: absolute;
-  z-index: 2;
-}
+
 
 
 
