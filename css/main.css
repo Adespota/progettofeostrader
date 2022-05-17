@@ -16,7 +16,6 @@ footer{
 }
 
 #image{
-  background-image: url(images/A.png);
   position: absolute;
   z-index: -2;
 
